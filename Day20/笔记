@@ -1,0 +1,21 @@
+今日内容
+    1、二分法 => 算法
+
+    2、面向过程的编程思想
+
+    3、函数式
+        lambda
+        map
+        reduce
+        filter
+        sorted
+        max
+        in
+
+    4、模块
+        import time
+        time.strftime()
+        time.sleep()
+
+    5、内置函数
+
